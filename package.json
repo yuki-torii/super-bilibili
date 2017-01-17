@@ -1,0 +1,26 @@
+{
+  "name": "super-bilibili",
+  "description": "super-bilibili",
+  "version": "0.1.0",
+  "author": "limichange <limichange@hotmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "standard": {
+    "globals": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:yuki-torii/super-bilibili.git.git"
+  },
+  "bugs": {
+    "url": "git@github.com:yuki-torii/super-bilibili.git/issues"
+  },
+  "homepage": "git@github.com:yuki-torii/super-bilibili.git#readme"
+}
